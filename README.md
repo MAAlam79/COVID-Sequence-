@@ -11,3 +11,16 @@ Long COVID Sequence Data Analysis codes:
  
  -The ‘Piping in_ Linux_SNP_Calling’ folder contains two files including a Linux run file to generate SNP calling. 
 
+For SNP calling analysis, We need to install following Linux tools: 
+
+•	BWA 
+
+•	Sratoolkit 
+
+•	SAMTOOLS 
+
+•	BCFTools 
+
+•	VCFtools 
+
+
